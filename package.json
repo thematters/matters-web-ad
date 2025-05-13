@@ -1,0 +1,15 @@
+{
+  "name": "web-ad",
+  "version": "1.0.0",
+  "description": "Matters Web Ad",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx vercel dev",
+    "build": "echo 'No build step needed'",
+    "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
